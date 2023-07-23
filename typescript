@@ -1,4 +1,4 @@
-# This is an example of the output of the script command
+# This is an example of the output of the "script" command
 
 Script started on 2023-05-06 21:25:19-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
 ]0;kxiao1@DESKTOP-20GT8JJ: ~[01;32mkxiao1@DESKTOP-20GT8JJ[00m:[01;34m~[00m$ ^C
