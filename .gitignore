@@ -1,2 +1,6 @@
 *.html
-/typescript
+*.txt
+.*
+
+# unable to exclude this file, no matter...
+typescript
